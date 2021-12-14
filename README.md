@@ -1,5 +1,5 @@
 # ATM Sederhana
-Source code dapat di compile di IDE Netbeans dan dapat berjalan di Windows OS,
+Source code dibuat menggunakan IDE Netbeans dan menggunakan bahasa JAVA,
 Di dalam source code ini terdapat perintah query yang berfungsi untuk membuat database di local
 dan mengkoneksikan database ke aplikasi
 
